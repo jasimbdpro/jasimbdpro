@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jasim Uddin</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate junior frontend developer from Bangladesh</h3>
 
 - 💬 Ask me about **react**
 
