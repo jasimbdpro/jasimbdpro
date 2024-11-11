@@ -2,7 +2,7 @@ Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 ## Junior Full Stack Web Developer
 
-I've been coding and learning since 2022 side by side with my MBA degree at Marketing. Generally I learned and practiced a lot of real world project using HTML, CSS, JavaScript, TypeScript, React.js (and Some MERN) and Next.js.
+I've been coding and learning since 2023 side by side with my MBA degree at Marketing. Generally I learned and practiced a lot of real world project using HTML, CSS, JavaScript, TypeScript, React.js (and Some MERN) and Next.js.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/jasimprobd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jasimprobd" height="30" width="40" /></a>
