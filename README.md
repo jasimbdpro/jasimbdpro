@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jasim Uddin</h1>
-<h3 align="center">A passionate junior frontend developer from Bangladesh</h3>
+# Hello! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Junior Full Stack Developer
 
-- 💬 Ask me about **react**
+## Junior Full Stack Web Developer
 
-- 📫 How to reach me **jasimbdpro@gmail.com**
-
+I've been coding and learning since 2022 side by side with my MBA degree at Marketing. Generally I learn and practices a lot of real world project using HTML, CSS, JavaScript, TypeScript, React.js (and Some MERN) and Next.js.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/jasimprobd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jasimprobd" height="30" width="40" /></a>
