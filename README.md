@@ -15,5 +15,7 @@ I've been coding and learning since 2023 side by side with my MBA degree at Mark
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWOYMtSMKxVApuqB5E7IjY9KuS15wUF4jtYg&s" alt="Next Logo"> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasimbdpro&show_icons=true&locale=en&layout=compact" alt="jasimbdpro" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasimbdpro&show_icons=true&locale=en&layout=compact" alt="jasimbdpro" />
+</p>
 
