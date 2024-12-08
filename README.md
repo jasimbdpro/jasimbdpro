@@ -20,9 +20,15 @@ I've been coding and learning since 2023 side by side with my MBA degree at Mark
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
 <img   width="40" src="https://raw.githubusercontent.com/jasimbdpro/github-as-a-cdn/main/uploads/nextjs.svg" alt="Next Logo"> </a>
 &nbsp;
+
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 &nbsp;
+
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+<img   src="https://raw.githubusercontent.com/jasimbdpro/github-as-a-cdn/main/uploads/node-js.svg" alt="nodejs" width="40" height="40"/> </a>
+&nbsp;
+
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
 <img   src="https://raw.githubusercontent.com/jasimbdpro/github-as-a-cdn/main/uploads/typescript-icon.svg" alt="typescript" width="40" height="40"/> </a>
 &nbsp;
