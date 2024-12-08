@@ -35,17 +35,20 @@ I've been coding and learning since 2023 side by side with my MBA degree at Mark
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 &nbsp;
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img   src="https://raw.githubusercontent.com/jasimbdpro/github-as-a-cdn/main/uploads/file-type-html.svg" alt="html5" width="40" height="40"/> </a>
+&nbsp;
+
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<img   src="https://raw.githubusercontent.com/jasimbdpro/github-as-a-cdn/main/uploads/css3.svg" alt="css3" width="40" height="40"/> </a>
+  &nbsp;
+  
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
 <img   src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 &nbsp;
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-   <img   src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  &nbsp; 
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img   src="https://raw.githubusercontent.com/jasimbdpro/github-as-a-cdn/main/uploads/css3.svg" alt="css3" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img   src="https://raw.githubusercontent.com/jasimbdpro/github-as-a-cdn/main/uploads/file-type-html.svg" alt="html5" width="40" height="40"/> </a>
+   <img   src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/> </a>
+
 </p>
 
 <p>
